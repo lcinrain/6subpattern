@@ -1,7 +1,25 @@
 GitHub restricts the size of uploaded data. We only share code here, and once the data upload is complete, we will publicly release the link.
 
+Dependencies:
+- redis
+- python36(+)
+    - pip install redis
+
+
+
 codes:
-    - 6Graph: we add target generation step
+- scanning framework:
+    - TCP_Server: python3/python TCP_Sever.py. read code to change Zmap command and the port
+    - myscan1v2.py: use in your function.
+    ```
+        from myscan1v2 import scan
+        r=redis.Redis(host='localhost', port=6379, decode_responses=True,db=1)
+        responsive_addr,unresponsive_addr = scan(your_target_list:Iterable,r)
+    ```
+    - myscan2.py: surport distributed scanning.
+
+    
+- 6Graph: we add target generation step
 
 
 - data
