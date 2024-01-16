@@ -162,9 +162,6 @@ def process_generate_refine_targets_simple(dir_out:str,pattern_density_list:list
         targets_output = targets-old_targets
         file_name = 'targets%s.txt'%count_round
         write_list2file(targets_output,dir_out+file_name)
-    filtered_addr = filter_all(dir_base=dir_out,filename_hitlist_filter=filter_hitlist,range_start=1,range_end=count_round+1,skip_duplicate=True,num_split_granularity=rounds)
-    dir_hitrate  = dir_out+'route/dealiased/noseed/'
-    hitrate_10M(dir_hitrate,1,count_round+1,'targets*.route.dealiased.noseed.txt',rounds=rounds,output_targets_unprobed=True,budget=budget,targets_input=filtered_addr)
 
 
 def process_generate_refine_targets_simple2(output_dir:str,pattern_density_list:list,filename_refinePattern_out:str,budget=10**7,asndb_alias=None,asndb_route=None,input_seeds={},start_input='0'):
@@ -261,9 +258,6 @@ def process_generate_targets_simple(dir_out:str,pattern_density_list:list,filter
         targets_noduplicate_all+=list(targets_output)
         file_name = 'targets%s.txt'%count_round
         write_list2file(targets_output,dir_out+file_name)
-    targets_filtered = filter_all(dir_base=dir_out,filename_hitlist_filter=filter_hitlist,range_start=1,range_end=count_round+1,skip_duplicate=True,targets_input=targets_noduplicate_all)
-    dir_hitrate  = dir_out+'route/dealiased/noseed/'
-    hitrate_10M(dir_hitrate,1,count_round+1,'targets*.route.dealiased.noseed.txt',output_targets_unprobed=True,budget=budget,targets_input=targets_filtered)
 
 def process_generate_targets_simple2(output_dir:str,pattern_density_list:list,budget=10**7,asndb_alias=None,asndb_route=None,input_seeds={}):
     '''
@@ -432,76 +426,6 @@ def process_generate_targets_simple(dir_out:str,pattern_density_list:list,filter
         targets_noduplicate_all+=list(targets_output)
         file_name = 'targets%s.txt'%count_round
         write_list2file(targets_output,dir_out+file_name)
-    targets_filtered = filter_all(dir_base=dir_out,filename_hitlist_filter=filter_hitlist,range_start=1,range_end=count_round+1,skip_duplicate=True,targets_input=targets_noduplicate_all)
-    dir_hitrate  = dir_out+'route/dealiased/noseed/'
-    hitrate_10M(dir_hitrate,1,count_round+1,'targets*.route.dealiased.noseed.txt',output_targets_unprobed=True,budget=budget,targets_input=targets_filtered)
-
-
-
-def process_generate_targets_dynamic(dir_out:str,pattern_density_list:list,filter_hitlist:str,budget=10**7,rounds=20,extra_budget_percent=0.02):
-    budget_left = budget+budget*extra_budget_percent
-    pattern_score_origin_list = []
-    for pattern,density,seeds in pattern_density_list:
-        pattern_score_origin_list.append(((pattern,0),density,seeds))
-    pattern_score_list = pattern_score_origin_list.copy()
-    targets_all = []
-    while(budget_left>0):
-        ts = time.time()
-        new_pattern_score_list = []
-        for i in range(len(pattern_score_list)):
-            (pattern,multiple),score,seeds = pattern_score_list[i]
-            if i == len(pattern_score_list) - 1:
-                score_next = 0.01
-            else:
-                (pattern_next,multiple_next), score_next, seeds_next = pattern_score_list[i+1]
-            score_now = score
-            flag = True
-            while(score_now>=score_next):
-                targets_generated = pattern2ipv6s_count(pattern,256*multiple,256)
-                if not targets_generated: 
-                    flag = False
-                    break
-                # targets_noduplicate = set(targets_generated) - set(targets_all)
-                # targets_all+=list(targets_noduplicate)
-                # budget_left-=len(targets_noduplicate)
-                targets_all+=targets_generated
-                budget_left-=len(targets_generated)
-                if budget_left<=0:break
-                targets_response, targets_unprobed = get_response_targets(targets_generated,verbose=False)
-                score_now = len(targets_response)/len(targets_generated)
-                multiple+=1
-                item = ((pattern,multiple),score_now,[])
-            if budget_left<=0:break
-            if flag:
-                new_pattern_score_list.append(item)
-        if not new_pattern_score_list:
-            break
-        new_pattern_score_list = sorted(new_pattern_score_list,key=lambda x:x[1],reverse=True)
-        if new_pattern_score_list[0][1]<=0.0000000001:
-            print('re order')
-            dict_pattern_multiple = dict()
-            for pattern_multiple,score,seeds in new_pattern_score_list:
-                pattern,multiple = pattern_multiple
-                dict_pattern_multiple[pattern] = multiple
-            list_pattern_tmp = []
-            for pattern_multiple,score,seeds in pattern_score_origin_list:
-                list_pattern_tmp.append(((pattern,dict_pattern_multiple[pattern]),score,seeds))
-            new_pattern_score_list = list_pattern_tmp
-        pattern_score_list = new_pattern_score_list
-        print('budget left',budget_left,'time cost',time.time()-ts)
-
-    step_budget = math.ceil(budget/rounds)
-    num_file = math.ceil(len(targets_all)/step_budget)
-    for i in range(0,num_file):
-        start = i*step_budget
-        end = (i+1)*step_budget
-        targets_seg = targets_all[start:end]
-        file_name = 'targets%s.txt'%i
-        write_list2file(targets_seg,dir_out+file_name)
-
-    filter_all(dir_base=dir_out,filename_hitlist_filter=filter_hitlist,range_start=1,range_end=num_file,skip_duplicate=True)
-    dir_hitrate  = dir_out+'route/dealiased/noseed/'
-    hitrate_10M(dir_hitrate,1,num_file,'targets*.route.dealiased.noseed.txt',output_targets_unprobed=True,budget=budget)
 
 
 def main(dir_base,filename_hitlist_read,filename_hitlist_filter,budget,th,extra_budget_percent=0.02,num_freed=32,process='23',start_input='0',rounds=20,dir_varible=''):
@@ -592,12 +516,6 @@ def main(dir_base,filename_hitlist_read,filename_hitlist_filter,budget,th,extra_
         filename_densityList = dir_base + 'density_list.sorted.txt'
         write_densityList2file(density_list,filename_densityList)
 
-
-    if '1' in process:
-        dir_dynamic = dir_base+'dynamic/'
-        cmd = 'mkdir "%s"'%dir_dynamic
-        os.system(cmd)
-        multiprocessing.Process(target=process_generate_targets_dynamic,args=(dir_dynamic,density_list,filename_hitlist_filter,budget,20,extra_budget_percent)).start()
 
     if '2' in process:
         dir_targets = dir_base+'norefinement/'
@@ -745,14 +663,6 @@ def main2(dir_base,filename_hitlist_read,filename_hitlist_filter='',budget=10**7
 
         filename_densityList = dir_base + 'density_list.sorted.txt'
         write_densityList2file(density_list,filename_densityList)
-
-
-    if '1' in strategy:
-        dir_dynamic = dir_base+'dynamic/'
-        if not os.path.exists(dir_dynamic):
-            os.makedirs(dir_dynamic)
-        multiprocessing.Process
-        multiprocessing.Process(target=process_generate_targets_dynamic,args=(dir_dynamic,density_list,filename_hitlist_filter,budget,20,extra_budget_percent)).start()
 
     if '2' in strategy:
         dir_targets = dir_base+'norefinement/'
