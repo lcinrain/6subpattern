@@ -1,0 +1,1571 @@
+INFO:root:Epoch: 0
+INFO:root:[+]Hit rate:0.03154715937251467   Remaining scan times:9913241
+
+INFO:root:Epoch: 1
+INFO:root:[+]Hit rate:0.03532035615029496   Remaining scan times:9826927
+
+INFO:root:Epoch: 2
+INFO:root:[+]Hit rate:0.04283216783216783   Remaining scan times:9741456
+
+INFO:root:Epoch: 3
+INFO:root:[+]Hit rate:0.04365384160896178   Remaining scan times:9661496
+
+INFO:root:Epoch: 4
+INFO:root:[+]Hit rate:0.047019506702023324   Remaining scan times:9587065
+
+INFO:root:Epoch: 5
+INFO:root:[+]Hit rate:0.04858352127035126   Remaining scan times:9514465
+
+INFO:root:Epoch: 6
+INFO:root:[+]Hit rate:0.05081788323709952   Remaining scan times:9440079
+
+INFO:root:Epoch: 7
+INFO:root:[+]Hit rate:0.056821597377416815   Remaining scan times:9357885
+
+INFO:root:Epoch: 8
+INFO:root:[+]Hit rate:0.07040872269102161   Remaining scan times:9283157
+
+INFO:root:Epoch: 9
+INFO:root:[+]Hit rate:0.07931200291105682   Remaining scan times:9230520
+
+INFO:root:Epoch: 10
+INFO:root:[+]Hit rate:0.08322266382318728   Remaining scan times:9174720
+
+INFO:root:Epoch: 11
+INFO:root:[+]Hit rate:0.09204165992269979   Remaining scan times:9128851
+
+INFO:root:Epoch: 12
+INFO:root:[+]Hit rate:0.10010459621178837   Remaining scan times:9103218
+
+INFO:root:Epoch: 13
+INFO:root:[+]Hit rate:0.1057710394438265   Remaining scan times:9080287
+
+INFO:root:Epoch: 14
+INFO:root:Epoch: 0
+INFO:root:[+]Hit rate:0.2243328259766616   Remaining scan times:9901450
+
+INFO:root:Epoch: 1
+INFO:root:[+]Hit rate:0.2748563385113693   Remaining scan times:9801791
+
+INFO:root:Epoch: 2
+INFO:root:[+]Hit rate:0.30188342798697276   Remaining scan times:9702776
+
+INFO:root:Epoch: 3
+INFO:root:[+]Hit rate:0.3157993076614257   Remaining scan times:9603951
+
+INFO:root:Epoch: 4
+INFO:root:[+]Hit rate:0.3207927796812306   Remaining scan times:9505285
+
+INFO:root:Epoch: 5
+INFO:root:[+]Hit rate:0.3185022880306082   Remaining scan times:9406695
+
+INFO:root:Epoch: 6
+INFO:root:[+]Hit rate:0.3062377263446291   Remaining scan times:9307969
+
+INFO:root:Epoch: 7
+INFO:root:[+]Hit rate:0.2982584803144927   Remaining scan times:9209139
+
+INFO:root:Epoch: 8
+INFO:root:[+]Hit rate:0.2916537408451464   Remaining scan times:9110308
+
+INFO:root:Epoch: 9
+INFO:root:[+]Hit rate:0.28634924617777074   Remaining scan times:9011637
+
+INFO:root:Epoch: 10
+INFO:root:[+]Hit rate:0.2813652737586434   Remaining scan times:8913185
+
+INFO:root:Epoch: 11
+INFO:root:[+]Hit rate:0.2770534075594113   Remaining scan times:8818744
+
+INFO:root:Epoch: 12
+INFO:root:[+]Hit rate:0.2710271893870655   Remaining scan times:8721560
+
+INFO:root:Epoch: 13
+INFO:root:[+]Hit rate:0.26688580778123316   Remaining scan times:8646230
+
+INFO:root:Epoch: 14
+INFO:root:[+]Hit rate:0.26326121965917065   Remaining scan times:8571191
+
+INFO:root:Epoch: 15
+INFO:root:[+]Hit rate:0.25964751224580085   Remaining scan times:8494586
+
+INFO:root:Epoch: 16
+INFO:root:[+]Hit rate:0.25521725614919616   Remaining scan times:8414061
+
+INFO:root:Epoch: 17
+INFO:root:[+]Hit rate:0.2518686612682785   Remaining scan times:8336911
+
+INFO:root:Epoch: 18
+INFO:root:[+]Hit rate:0.24870307735596608   Remaining scan times:8258570
+
+INFO:root:Epoch: 19
+INFO:root:[+]Hit rate:0.2467975910384784   Remaining scan times:8181291
+
+INFO:root:Epoch: 20
+INFO:root:[+]Hit rate:0.24662703077939382   Remaining scan times:8124427
+
+INFO:root:Epoch: 21
+INFO:root:[+]Hit rate:0.24640991704045417   Remaining scan times:8026508
+
+INFO:root:Epoch: 22
+INFO:root:[+]Hit rate:0.24730137321308146   Remaining scan times:7975915
+
+INFO:root:Epoch: 23
+INFO:root:[+]Hit rate:0.2482524931675881   Remaining scan times:7925330
+
+INFO:root:Epoch: 24
+INFO:root:[+]Hit rate:0.24915826183185563   Remaining scan times:7874636
+
+INFO:root:Epoch: 25
+INFO:root:[+]Hit rate:0.24949381316995653   Remaining scan times:7823926
+
+INFO:root:Epoch: 26
+INFO:root:[+]Hit rate:0.24994106677886055   Remaining scan times:7772903
+
+INFO:root:Epoch: 27
+INFO:root:[+]Hit rate:0.24917950344407044   Remaining scan times:7717236
+
+INFO:root:Epoch: 28
+INFO:root:[+]Hit rate:0.24846706470850877   Remaining scan times:7666242
+
+INFO:root:Epoch: 29
+INFO:root:[+]Hit rate:0.2478916209517508   Remaining scan times:7615111
+
+INFO:root:Epoch: 30
+INFO:root:[+]Hit rate:0.24746186487110988   Remaining scan times:7563467
+
+INFO:root:Epoch: 31
+INFO:root:[+]Hit rate:0.24688366263046674   Remaining scan times:7510860
+
+INFO:root:Epoch: 32
+INFO:root:[+]Hit rate:0.2465737365106304   Remaining scan times:7458091
+
+INFO:root:Epoch: 33
+INFO:root:[+]Hit rate:0.24648181997521745   Remaining scan times:7404624
+
+INFO:root:Epoch: 34
+INFO:root:[+]Hit rate:0.2464794633790961   Remaining scan times:7350830
+
+INFO:root:Epoch: 35
+INFO:root:[+]Hit rate:0.2465399997336754   Remaining scan times:7296532
+
+INFO:root:Epoch: 36
+INFO:root:[+]Hit rate:0.24680217718248124   Remaining scan times:7239919
+
+INFO:root:Epoch: 37
+INFO:root:[+]Hit rate:0.24705259750493008   Remaining scan times:7182604
+
+INFO:root:Epoch: 38
+INFO:root:[+]Hit rate:0.2473322823563118   Remaining scan times:7123946
+
+INFO:root:Epoch: 39
+INFO:root:[+]Hit rate:0.2478011519170685   Remaining scan times:7064372
+
+INFO:root:Epoch: 40
+INFO:root:[+]Hit rate:0.24825991651602344   Remaining scan times:7002299
+
+INFO:root:Epoch: 41
+INFO:root:[+]Hit rate:0.25091142580564574   Remaining scan times:6925696
+
+INFO:root:Epoch: 42
+INFO:root:[+]Hit rate:0.2527449341073035   Remaining scan times:6848285
+
+INFO:root:Epoch: 43
+INFO:root:[+]Hit rate:0.2550073884706408   Remaining scan times:6771321
+
+INFO:root:Epoch: 44
+INFO:root:[+]Hit rate:0.257259071419584   Remaining scan times:6693792
+
+INFO:root:Epoch: 45
+INFO:root:[+]Hit rate:0.2589033515926775   Remaining scan times:6616892
+
+INFO:root:Epoch: 46
+INFO:root:[+]Hit rate:0.2603951508809156   Remaining scan times:6540815
+
+INFO:root:Epoch: 47
+INFO:root:[+]Hit rate:0.26194645321367926   Remaining scan times:6491218
+
+INFO:root:Epoch: 48
+INFO:root:[+]Hit rate:0.2622179951889391   Remaining scan times:6441949
+
+INFO:root:Epoch: 49
+INFO:root:[+]Hit rate:0.26275422097900386   Remaining scan times:6406817
+
+INFO:root:Epoch: 50
+INFO:root:[+]Hit rate:0.2633526692073213   Remaining scan times:6381510
+
+INFO:root:Epoch: 51
+INFO:root:[+]Hit rate:0.2639845248170431   Remaining scan times:6355972
+
+INFO:root:Epoch: 52
+INFO:root:[+]Hit rate:0.26464750114234037   Remaining scan times:6329903
+
+INFO:root:Epoch: 53
+INFO:root:[+]Hit rate:0.2652881899383697   Remaining scan times:6303601
+
+INFO:root:Epoch: 54
+INFO:root:[+]Hit rate:0.26593080117827284   Remaining scan times:6276584
+
+INFO:root:Epoch: 55
+INFO:root:[+]Hit rate:0.26653042631572915   Remaining scan times:6248297
+
+INFO:root:Epoch: 56
+INFO:root:[+]Hit rate:0.26706129128141226   Remaining scan times:6218516
+
+INFO:root:Epoch: 57
+INFO:root:[+]Hit rate:0.2675276114067879   Remaining scan times:6186902
+
+INFO:root:Epoch: 58
+INFO:root:[+]Hit rate:0.26791500628104126   Remaining scan times:6153504
+
+INFO:root:Epoch: 59
+INFO:root:[+]Hit rate:0.26755772136352257   Remaining scan times:6112921
+
+INFO:root:Epoch: 60
+INFO:root:[+]Hit rate:0.26736015850659806   Remaining scan times:6074359
+
+INFO:root:Epoch: 61
+INFO:root:[+]Hit rate:0.267037027048893   Remaining scan times:6032333
+
+INFO:root:Epoch: 62
+INFO:root:[+]Hit rate:0.2667076294159069   Remaining scan times:5988225
+
+INFO:root:Epoch: 63
+INFO:root:[+]Hit rate:0.26628584976948394   Remaining scan times:5942582
+
+INFO:root:Epoch: 64
+INFO:root:[+]Hit rate:0.2662867867011294   Remaining scan times:5898178
+
+INFO:root:Epoch: 65
+INFO:root:[+]Hit rate:0.26774540810076514   Remaining scan times:5844911
+
+INFO:root:Epoch: 66
+INFO:root:[+]Hit rate:0.2694523465348064   Remaining scan times:5790495
+
+INFO:root:Epoch: 67
+INFO:root:[+]Hit rate:0.27103369215137096   Remaining scan times:5732656
+
+INFO:root:Epoch: 68
+INFO:root:[+]Hit rate:0.27248599635508747   Remaining scan times:5674519
+
+INFO:root:Epoch: 69
+INFO:root:[+]Hit rate:0.2749481436330389   Remaining scan times:5603240
+
+INFO:root:Epoch: 70
+INFO:root:[+]Hit rate:0.27754119996938786   Remaining scan times:5531186
+
+INFO:root:Epoch: 71
+INFO:root:[+]Hit rate:0.2794830325323105   Remaining scan times:5458515
+
+INFO:root:Epoch: 72
+INFO:root:[+]Hit rate:0.2821517178963939   Remaining scan times:5385752
+
+INFO:root:Epoch: 73
+INFO:root:[+]Hit rate:0.2848285553022115   Remaining scan times:5313795
+
+INFO:root:Epoch: 74
+INFO:root:[+]Hit rate:0.28693395625826507   Remaining scan times:5240518
+
+INFO:root:Epoch: 75
+INFO:root:[+]Hit rate:0.28895997735176204   Remaining scan times:5167836
+
+INFO:root:Epoch: 76
+INFO:root:[+]Hit rate:0.2904630341388022   Remaining scan times:5095610
+
+INFO:root:Epoch: 77
+INFO:root:[+]Hit rate:0.29122041557779593   Remaining scan times:5024662
+
+INFO:root:Epoch: 78
+INFO:root:[+]Hit rate:0.29143937449728813   Remaining scan times:5004594
+
+INFO:root:Epoch: 79
+INFO:root:[+]Hit rate:0.2916741681794302   Remaining scan times:4984345
+
+INFO:root:Epoch: 80
+INFO:root:[+]Hit rate:0.29198263478344605   Remaining scan times:4963495
+
+INFO:root:Epoch: 81
+INFO:root:[+]Hit rate:0.2923579573481088   Remaining scan times:4941889
+
+INFO:root:Epoch: 82
+INFO:root:[+]Hit rate:0.2927144092925209   Remaining scan times:4919355
+
+INFO:root:Epoch: 83
+INFO:root:[+]Hit rate:0.2932486107859626   Remaining scan times:4895495
+
+INFO:root:Epoch: 84
+INFO:root:[+]Hit rate:0.2936947097798888   Remaining scan times:4869911
+
+INFO:root:Epoch: 85
+INFO:root:[+]Hit rate:0.2937497922446774   Remaining scan times:4825644
+
+INFO:root:Epoch: 86
+INFO:root:[+]Hit rate:0.2945354268476206   Remaining scan times:4777012
+
+INFO:root:Epoch: 87
+INFO:root:[+]Hit rate:0.29527147769189227   Remaining scan times:4724631
+
+INFO:root:Epoch: 88
+INFO:root:[+]Hit rate:0.29569511043512614   Remaining scan times:4669178
+
+INFO:root:Epoch: 89
+INFO:root:[+]Hit rate:0.29610113310604524   Remaining scan times:4611537
+
+INFO:root:Epoch: 90
+INFO:root:[+]Hit rate:0.2966714576571818   Remaining scan times:4551579
+
+INFO:root:Epoch: 91
+INFO:root:[+]Hit rate:0.29617222577847996   Remaining scan times:4493275
+
+INFO:root:Epoch: 92
+INFO:root:[+]Hit rate:0.2970157261801288   Remaining scan times:4438446
+
+INFO:root:Epoch: 93
+INFO:root:[+]Hit rate:0.29734367148060903   Remaining scan times:4382359
+
+INFO:root:Epoch: 94
+INFO:root:[+]Hit rate:0.29802784371727153   Remaining scan times:4315917
+
+INFO:root:Epoch: 95
+INFO:root:[+]Hit rate:0.29864041272756403   Remaining scan times:4251123
+
+INFO:root:Epoch: 96
+INFO:root:[+]Hit rate:0.2989795514568619   Remaining scan times:4187850
+
+INFO:root:Epoch: 97
+INFO:root:[+]Hit rate:0.29951459482860726   Remaining scan times:4123672
+
+INFO:root:Epoch: 98
+INFO:root:[+]Hit rate:0.29974626762855794   Remaining scan times:4077224
+
+INFO:root:Epoch: 99
+INFO:root:[+]Hit rate:0.2998536544551553   Remaining scan times:4059949
+
+INFO:root:Epoch: 100
+INFO:root:[+]Hit rate:0.2999240201215678   Remaining scan times:4045792
+
+INFO:root:Epoch: 101
+INFO:root:[+]Hit rate:0.30000795830851595   Remaining scan times:4031395
+
+INFO:root:Epoch: 102
+INFO:root:[+]Hit rate:0.300108946934871   Remaining scan times:4016353
+
+INFO:root:Epoch: 103
+INFO:root:[+]Hit rate:0.3002478105732511   Remaining scan times:4000256
+
+INFO:root:Epoch: 104
+INFO:root:[+]Hit rate:0.30043008655394293   Remaining scan times:3980979
+
+INFO:root:Epoch: 105
+INFO:root:[+]Hit rate:0.30064143234851043   Remaining scan times:3958677
+
+INFO:root:Epoch: 106
+INFO:root:[+]Hit rate:0.30096157585977534   Remaining scan times:3932252
+
+INFO:root:Epoch: 107
+INFO:root:[+]Hit rate:0.30094261627092833   Remaining scan times:3901442
+
+INFO:root:Epoch: 108
+INFO:root:[+]Hit rate:0.3010375057886344   Remaining scan times:3862974
+
+INFO:root:Epoch: 109
+INFO:root:[+]Hit rate:0.3017214830068024   Remaining scan times:3820851
+
+INFO:root:Epoch: 110
+INFO:root:[+]Hit rate:0.3021136938436635   Remaining scan times:3774122
+
+INFO:root:Epoch: 111
+INFO:root:[+]Hit rate:0.30174236751569106   Remaining scan times:3715218
+
+INFO:root:Epoch: 112
+INFO:root:[+]Hit rate:0.30179025614991156   Remaining scan times:3702633
+
+INFO:root:Epoch: 113
+INFO:root:[+]Hit rate:0.3018665982083573   Remaining scan times:3689590
+
+INFO:root:Epoch: 114
+INFO:root:[+]Hit rate:0.30198452571155715   Remaining scan times:3675315
+
+INFO:root:Epoch: 115
+INFO:root:[+]Hit rate:0.3022200404452255   Remaining scan times:3658584
+
+INFO:root:Epoch: 116
+INFO:root:[+]Hit rate:0.3025401779356858   Remaining scan times:3637926
+
+INFO:root:Epoch: 117
+INFO:root:[+]Hit rate:0.3028006323145018   Remaining scan times:3611407
+
+INFO:root:Epoch: 118
+INFO:root:[+]Hit rate:0.30303830623667893   Remaining scan times:3574545
+
+INFO:root:Epoch: 119
+INFO:root:[+]Hit rate:0.3035279092637838   Remaining scan times:3530786
+
+INFO:root:Epoch: 120
+INFO:root:[+]Hit rate:0.30403464201993585   Remaining scan times:3479595
+
+INFO:root:Epoch: 121
+INFO:root:[+]Hit rate:0.3043447206965266   Remaining scan times:3419577
+
+INFO:root:Epoch: 122
+INFO:root:[+]Hit rate:0.30392829883614325   Remaining scan times:3357430
+
+INFO:root:Epoch: 123
+INFO:root:[+]Hit rate:0.30377252987091397   Remaining scan times:3295401
+
+INFO:root:Epoch: 124
+INFO:root:[+]Hit rate:0.30372235209494697   Remaining scan times:3232263
+
+INFO:root:Epoch: 125
+INFO:root:[+]Hit rate:0.30365716901146755   Remaining scan times:3170209
+
+INFO:root:Epoch: 126
+INFO:root:[+]Hit rate:0.30354458068151363   Remaining scan times:3108663
+
+INFO:root:Epoch: 127
+INFO:root:[+]Hit rate:0.3029929390870941   Remaining scan times:3017900
+
+INFO:root:Epoch: 128
+INFO:root:[+]Hit rate:0.30269200205892827   Remaining scan times:2926417
+
+INFO:root:Epoch: 129
+INFO:root:[+]Hit rate:0.3024065282975689   Remaining scan times:2833660
+
+INFO:root:Epoch: 130
+INFO:root:[+]Hit rate:0.30225764073264627   Remaining scan times:2741272
+
+INFO:root:Epoch: 131
+INFO:root:[+]Hit rate:0.302131874900695   Remaining scan times:2648912
+
+INFO:root:Epoch: 132
+INFO:root:[+]Hit rate:0.3019006724062966   Remaining scan times:2557476
+
+INFO:root:Epoch: 133
+INFO:root:[+]Hit rate:0.301595370910397   Remaining scan times:2466078
+
+INFO:root:Epoch: 134
+INFO:root:[+]Hit rate:0.3012970927123768   Remaining scan times:2375333
+
+INFO:root:Epoch: 135
+INFO:root:[+]Hit rate:0.3013368108176496   Remaining scan times:2309383
+
+INFO:root:Epoch: 136
+INFO:root:[+]Hit rate:0.3011898259907042   Remaining scan times:2242311
+
+INFO:root:Epoch: 137
+INFO:root:[+]Hit rate:0.30117266272281606   Remaining scan times:2175329
+
+INFO:root:Epoch: 138
+INFO:root:[+]Hit rate:0.30113867186088866   Remaining scan times:2110721
+
+INFO:root:Epoch: 139
+INFO:root:[+]Hit rate:0.30085358079715435   Remaining scan times:2065426
+
+INFO:root:Epoch: 140
+INFO:root:Epoch: 0
+INFO:root:[+]Hit rate:0.04250308788050191   Remaining scan times:9913371
+
+INFO:root:Epoch: 1
+INFO:root:Epoch: 0
+INFO:root:[+]Hit rate:0.40933015567161907   Remaining scan times:9901395
+
+INFO:root:Epoch: 1
+INFO:root:[+]Hit rate:0.4824649905161629   Remaining scan times:9801768
+
+INFO:root:Epoch: 2
+INFO:root:[+]Hit rate:0.4966681699166033   Remaining scan times:9702866
+
+INFO:root:Epoch: 3
+INFO:root:Epoch: 0
+INFO:root:[+]Hit rate:0.042895349641482027   Remaining scan times:9913254
+
+INFO:root:Epoch: 1
+INFO:root:[+]Hit rate:0.052311643331311004   Remaining scan times:9830229
+
+INFO:root:Epoch: 2
+INFO:root:[+]Hit rate:0.05498823934369801   Remaining scan times:9755966
+
+INFO:root:Epoch: 3
+INFO:root:[+]Hit rate:0.061668876174161676   Remaining scan times:9682433
+
+INFO:root:Epoch: 4
+INFO:root:[+]Hit rate:0.06928774282665952   Remaining scan times:9611966
+
+INFO:root:Epoch: 5
+INFO:root:[+]Hit rate:0.07815724885782153   Remaining scan times:9544073
+
+INFO:root:Epoch: 6
+INFO:root:[+]Hit rate:0.08634659942103964   Remaining scan times:9477339
+
+INFO:root:Epoch: 7
+INFO:root:[+]Hit rate:0.09670339476036935   Remaining scan times:9417249
+
+INFO:root:Epoch: 8
+INFO:root:[+]Hit rate:0.10544332526775833   Remaining scan times:9360244
+
+INFO:root:Epoch: 9
+INFO:root:[+]Hit rate:0.11264323889595537   Remaining scan times:9298724
+
+INFO:root:Epoch: 10
+INFO:root:[+]Hit rate:0.12479354227976854   Remaining scan times:9242581
+
+INFO:root:Epoch: 11
+INFO:root:[+]Hit rate:0.13525207461513258   Remaining scan times:9197321
+
+INFO:root:Epoch: 12
+INFO:root:[+]Hit rate:0.13370764722348374   Remaining scan times:9139047
+
+INFO:root:Epoch: 13
+INFO:root:[+]Hit rate:0.13525129697473606   Remaining scan times:9076312
+
+INFO:root:Epoch: 14
+INFO:root:[+]Hit rate:0.13746178371218035   Remaining scan times:9007295
+
+INFO:root:Epoch: 15
+INFO:root:[+]Hit rate:0.1349242957680186   Remaining scan times:8937708
+
+INFO:root:Epoch: 16
+INFO:root:[+]Hit rate:0.13378985658544923   Remaining scan times:8864899
+
+INFO:root:Epoch: 17
+INFO:root:[+]Hit rate:0.13337333078804076   Remaining scan times:8789923
+
+INFO:root:Epoch: 18
+INFO:root:[+]Hit rate:0.1328478623038907   Remaining scan times:8710668
+
+INFO:root:Epoch: 19
+INFO:root:[+]Hit rate:0.13647289541651986   Remaining scan times:8626284
+
+INFO:root:Epoch: 20
+INFO:root:[+]Hit rate:0.13730938404344697   Remaining scan times:8543144
+
+INFO:root:Epoch: 21
+INFO:root:[+]Hit rate:0.13772282677732142   Remaining scan times:8464895
+
+INFO:root:Epoch: 22
+INFO:root:[+]Hit rate:0.1378109049663777   Remaining scan times:8395410
+
+INFO:root:Epoch: 23
+INFO:root:[+]Hit rate:0.137360912504685   Remaining scan times:8324436
+
+INFO:root:Epoch: 24
+INFO:root:[+]Hit rate:0.13539391615716936   Remaining scan times:8247292
+
+INFO:root:Epoch: 25
+INFO:root:[+]Hit rate:0.1336494416289776   Remaining scan times:8172989
+
+INFO:root:Epoch: 26
+INFO:root:[+]Hit rate:0.13163512309483572   Remaining scan times:8097605
+
+INFO:root:Epoch: 27
+INFO:root:[+]Hit rate:0.12933998487918225   Remaining scan times:8017303
+
+INFO:root:Epoch: 28
+INFO:root:[+]Hit rate:0.12784004699219692   Remaining scan times:7950298
+
+INFO:root:Epoch: 29
+INFO:root:[+]Hit rate:0.1260300969930366   Remaining scan times:7880054
+
+INFO:root:Epoch: 30
+INFO:root:[+]Hit rate:0.124095347475196   Remaining scan times:7811038
+
+INFO:root:Epoch: 31
+INFO:root:[+]Hit rate:0.12251272543610588   Remaining scan times:7744871
+
+INFO:root:Epoch: 32
+INFO:root:[+]Hit rate:0.12112361696235269   Remaining scan times:7685439
+
+INFO:root:Epoch: 33
+INFO:root:[+]Hit rate:0.1199877865999744   Remaining scan times:7632109
+
+INFO:root:Epoch: 34
+INFO:root:[+]Hit rate:0.11881143955970432   Remaining scan times:7578718
+
+INFO:root:Epoch: 35
+INFO:root:[+]Hit rate:0.11753708855547366   Remaining scan times:7527674
+
+INFO:root:Epoch: 36
+INFO:root:[+]Hit rate:0.11638230419973242   Remaining scan times:7481911
+
+INFO:root:Epoch: 37
+INFO:root:[+]Hit rate:0.11623023488823497   Remaining scan times:7437973
+
+INFO:root:Epoch: 38
+INFO:root:[+]Hit rate:0.11460661724023459   Remaining scan times:7379270
+
+INFO:root:Epoch: 39
+INFO:root:[+]Hit rate:0.11395569450774734   Remaining scan times:7329857
+
+INFO:root:Epoch: 40
+INFO:root:[+]Hit rate:0.11342611924182451   Remaining scan times:7281843
+
+INFO:root:Epoch: 41
+INFO:root:[+]Hit rate:0.11289189955766167   Remaining scan times:7228818
+
+INFO:root:Epoch: 42
+INFO:root:[+]Hit rate:0.11251369107969757   Remaining scan times:7174255
+
+INFO:root:Epoch: 43
+INFO:root:[+]Hit rate:0.11226223108807715   Remaining scan times:7116528
+
+INFO:root:Epoch: 44
+INFO:root:[+]Hit rate:0.11228465739426007   Remaining scan times:7060382
+
+INFO:root:Epoch: 45
+INFO:root:[+]Hit rate:0.11235065225156368   Remaining scan times:6996021
+
+INFO:root:Epoch: 46
+INFO:root:[+]Hit rate:0.1123245437478461   Remaining scan times:6927083
+
+INFO:root:Epoch: 47
+INFO:root:[+]Hit rate:0.11165477200808727   Remaining scan times:6856292
+
+INFO:root:Epoch: 48
+INFO:root:[+]Hit rate:0.11060936798061964   Remaining scan times:6779007
+
+INFO:root:Epoch: 49
+INFO:root:[+]Hit rate:0.10947910462915396   Remaining scan times:6700585
+
+INFO:root:Epoch: 50
+INFO:root:[+]Hit rate:0.10826076382316234   Remaining scan times:6624271
+
+INFO:root:Epoch: 51
+INFO:root:[+]Hit rate:0.10696533570255037   Remaining scan times:6551322
+
+INFO:root:Epoch: 52
+INFO:root:[+]Hit rate:0.10572277995262323   Remaining scan times:6480976
+
+INFO:root:Epoch: 53
+INFO:root:[+]Hit rate:0.10450781927704464   Remaining scan times:6411369
+
+INFO:root:Epoch: 54
+INFO:root:[+]Hit rate:0.10332641889882255   Remaining scan times:6341952
+
+INFO:root:Epoch: 55
+INFO:root:[+]Hit rate:0.10212170806639323   Remaining scan times:6269138
+
+INFO:root:Epoch: 56
+INFO:root:[+]Hit rate:0.10108071938540397   Remaining scan times:6198088
+
+INFO:root:Epoch: 57
+INFO:root:[+]Hit rate:0.10026917118662751   Remaining scan times:6126257
+
+INFO:root:Epoch: 58
+INFO:root:[+]Hit rate:0.10024811055342303   Remaining scan times:6051357
+
+INFO:root:Epoch: 59
+INFO:root:[+]Hit rate:0.10048007325628565   Remaining scan times:5976864
+
+INFO:root:Epoch: 60
+INFO:root:[+]Hit rate:0.1003425202927348   Remaining scan times:5918490
+
+INFO:root:Epoch: 61
+INFO:root:[+]Hit rate:0.10038032501646348   Remaining scan times:5871163
+
+INFO:root:Epoch: 62
+INFO:root:[+]Hit rate:0.10058688714664707   Remaining scan times:5823899
+
+INFO:root:Epoch: 63
+INFO:root:[+]Hit rate:0.10076698183244652   Remaining scan times:5778518
+
+INFO:root:Epoch: 64
+INFO:root:[+]Hit rate:0.10075410218381961   Remaining scan times:5729226
+
+INFO:root:Epoch: 65
+INFO:root:[+]Hit rate:0.10078541720923627   Remaining scan times:5676438
+
+INFO:root:Epoch: 66
+INFO:root:[+]Hit rate:0.10111679275715454   Remaining scan times:5624703
+
+INFO:root:Epoch: 67
+INFO:root:[+]Hit rate:0.10353538540875921   Remaining scan times:5563256
+
+INFO:root:Epoch: 68
+INFO:root:[+]Hit rate:0.10320178707700617   Remaining scan times:5497452
+
+INFO:root:Epoch: 69
+INFO:root:[+]Hit rate:0.10293720484271336   Remaining scan times:5430826
+
+INFO:root:Epoch: 70
+INFO:root:[+]Hit rate:0.10252663350779583   Remaining scan times:5362327
+
+INFO:root:Epoch: 71
+INFO:root:[+]Hit rate:0.10211161121207007   Remaining scan times:5301171
+
+INFO:root:Epoch: 72
+INFO:root:[+]Hit rate:0.10167324897506255   Remaining scan times:5238246
+
+INFO:root:Epoch: 73
+INFO:root:[+]Hit rate:0.10118454670225771   Remaining scan times:5174441
+
+INFO:root:Epoch: 74
+INFO:root:[+]Hit rate:0.1005830206430768   Remaining scan times:5108578
+
+INFO:root:Epoch: 75
+INFO:root:[+]Hit rate:0.10038009043226041   Remaining scan times:5024342
+
+INFO:root:Epoch: 76
+INFO:root:[+]Hit rate:0.10035647709062367   Remaining scan times:4954795
+
+INFO:root:Epoch: 77
+INFO:root:[+]Hit rate:0.10043663256299502   Remaining scan times:4884715
+
+INFO:root:Epoch: 78
+INFO:root:[+]Hit rate:0.10002675197982974   Remaining scan times:4815337
+
+INFO:root:Epoch: 79
+INFO:root:[+]Hit rate:0.09952511570753425   Remaining scan times:4740403
+
+INFO:root:Epoch: 80
+INFO:root:[+]Hit rate:0.09906318124471745   Remaining scan times:4668766
+
+INFO:root:Epoch: 81
+INFO:root:[+]Hit rate:0.09865133432721941   Remaining scan times:4594954
+
+INFO:root:Epoch: 82
+INFO:root:[+]Hit rate:0.09831050678958711   Remaining scan times:4518297
+
+INFO:root:Epoch: 83
+INFO:root:[+]Hit rate:0.09894875646371257   Remaining scan times:4439728
+
+INFO:root:Epoch: 84
+INFO:root:[+]Hit rate:0.09970044184163068   Remaining scan times:4363365
+
+INFO:root:Epoch: 85
+INFO:root:[+]Hit rate:0.10008124423543015   Remaining scan times:4285133
+
+INFO:root:Epoch: 86
+INFO:root:[+]Hit rate:0.1004536409480009   Remaining scan times:4221862
+
+INFO:root:Epoch: 87
+INFO:root:[+]Hit rate:0.10081853130471827   Remaining scan times:4164426
+
+INFO:root:Epoch: 88
+INFO:root:[+]Hit rate:0.1010124506916749   Remaining scan times:4110528
+
+INFO:root:Epoch: 89
+INFO:root:[+]Hit rate:0.10139122358607021   Remaining scan times:4052286
+
+INFO:root:Epoch: 90
+INFO:root:[+]Hit rate:0.10192829352404123   Remaining scan times:3989971
+
+INFO:root:Epoch: 91
+INFO:root:[+]Hit rate:0.10211877774290823   Remaining scan times:3929755
+
+INFO:root:Epoch: 92
+INFO:root:[+]Hit rate:0.10234894815077134   Remaining scan times:3866659
+
+INFO:root:Epoch: 93
+INFO:root:[+]Hit rate:0.10253210908539516   Remaining scan times:3800820
+
+INFO:root:Epoch: 94
+INFO:root:[+]Hit rate:0.10264107443448758   Remaining scan times:3734974
+
+INFO:root:Epoch: 95
+INFO:root:[+]Hit rate:0.10268062655304262   Remaining scan times:3665660
+
+INFO:root:Epoch: 96
+INFO:root:[+]Hit rate:0.10272691808313966   Remaining scan times:3596654
+
+INFO:root:Epoch: 97
+INFO:root:[+]Hit rate:0.10287006195104142   Remaining scan times:3527631
+
+INFO:root:Epoch: 98
+INFO:root:[+]Hit rate:0.10304460887286887   Remaining scan times:3456795
+
+INFO:root:Epoch: 99
+INFO:root:[+]Hit rate:0.10321259922049437   Remaining scan times:3386321
+
+INFO:root:Epoch: 100
+INFO:root:[+]Hit rate:0.10346759239933263   Remaining scan times:3316429
+
+INFO:root:Epoch: 101
+INFO:root:[+]Hit rate:0.10361857698097873   Remaining scan times:3259809
+
+INFO:root:Epoch: 102
+INFO:root:[+]Hit rate:0.10372752471607338   Remaining scan times:3211098
+
+INFO:root:Epoch: 103
+INFO:root:[+]Hit rate:0.10383674342608558   Remaining scan times:3156931
+
+INFO:root:Epoch: 104
+INFO:root:[+]Hit rate:0.10397250384870739   Remaining scan times:3101580
+
+INFO:root:Epoch: 105
+INFO:root:[+]Hit rate:0.1041979067609422   Remaining scan times:3043795
+
+INFO:root:Epoch: 106
+INFO:root:[+]Hit rate:0.10415044920788055   Remaining scan times:2979531
+
+INFO:root:Epoch: 107
+INFO:root:[+]Hit rate:0.10407398581688666   Remaining scan times:2928915
+
+INFO:root:Epoch: 108
+INFO:root:[+]Hit rate:0.10413057366677184   Remaining scan times:2874888
+
+INFO:root:Epoch: 109
+INFO:root:[+]Hit rate:0.10437871875631066   Remaining scan times:2829592
+
+INFO:root:Epoch: 110
+INFO:root:[+]Hit rate:0.10473732330156188   Remaining scan times:2773493
+
+INFO:root:Epoch: 111
+INFO:root:[+]Hit rate:0.10480044540384902   Remaining scan times:2714926
+
+INFO:root:Epoch: 112
+INFO:root:[+]Hit rate:0.10467386950746366   Remaining scan times:2662247
+
+INFO:root:Epoch: 113
+INFO:root:[+]Hit rate:0.10464379663057047   Remaining scan times:2609194
+
+INFO:root:Epoch: 114
+INFO:root:[+]Hit rate:0.10465446189884108   Remaining scan times:2570226
+
+INFO:root:Epoch: 115
+INFO:root:[+]Hit rate:0.10461294426171108   Remaining scan times:2521891
+
+INFO:root:Epoch: 116
+INFO:root:[+]Hit rate:0.1045882952348616   Remaining scan times:2469033
+
+INFO:root:Epoch: 117
+INFO:root:[+]Hit rate:0.10457959035518603   Remaining scan times:2412793
+
+INFO:root:Epoch: 118
+INFO:root:[+]Hit rate:0.10463720923773709   Remaining scan times:2366702
+
+INFO:root:Epoch: 119
+INFO:root:[+]Hit rate:0.10464264428168674   Remaining scan times:2312226
+
+INFO:root:Epoch: 120
+INFO:root:[+]Hit rate:0.104655718007068   Remaining scan times:2250132
+
+INFO:root:Epoch: 121
+INFO:root:[+]Hit rate:0.10471047738246522   Remaining scan times:2185930
+
+INFO:root:Epoch: 122
+INFO:root:[+]Hit rate:0.1046656913958065   Remaining scan times:2119796
+
+INFO:root:Epoch: 123
+INFO:root:[+]Hit rate:0.10472477098274678   Remaining scan times:2052673
+
+INFO:root:Epoch: 124
+INFO:root:[+]Hit rate:0.10475393207178935   Remaining scan times:1982153
+
+INFO:root:Epoch: 125
+INFO:root:[+]Hit rate:0.10481041681014183   Remaining scan times:1912073
+
+INFO:root:Epoch: 126
+INFO:root:[+]Hit rate:0.1048093205688972   Remaining scan times:1843588
+
+INFO:root:Epoch: 127
+INFO:root:[+]Hit rate:0.10480399508940777   Remaining scan times:1773701
+
+INFO:root:Epoch: 128
+INFO:root:[+]Hit rate:0.1047879531215627   Remaining scan times:1704075
+
+INFO:root:Epoch: 129
+INFO:root:[+]Hit rate:0.10474183577604651   Remaining scan times:1633620
+
+INFO:root:Epoch: 130
+INFO:root:[+]Hit rate:0.10468123123443361   Remaining scan times:1560340
+
+INFO:root:Epoch: 131
+INFO:root:[+]Hit rate:0.10460967726209335   Remaining scan times:1487365
+
+INFO:root:Epoch: 132
+INFO:root:[+]Hit rate:0.10447542317958582   Remaining scan times:1414756
+
+INFO:root:Epoch: 133
+INFO:root:[+]Hit rate:0.1043117781184584   Remaining scan times:1339559
+
+INFO:root:Epoch: 134
+INFO:root:[+]Hit rate:0.10418991426259905   Remaining scan times:1266122
+
+INFO:root:Epoch: 135
+INFO:root:[+]Hit rate:0.10409903187245206   Remaining scan times:1192896
+
+INFO:root:Epoch: 136
+INFO:root:[+]Hit rate:0.1040320150480996   Remaining scan times:1119676
+
+INFO:root:Epoch: 137
+INFO:root:[+]Hit rate:0.10399303343103522   Remaining scan times:1054420
+
+INFO:root:Epoch: 138
+INFO:root:[+]Hit rate:0.10388935830202044   Remaining scan times:984014
+
+INFO:root:Epoch: 139
+INFO:root:[+]Hit rate:0.10380605690601657   Remaining scan times:919027
+
+INFO:root:Epoch: 140
+INFO:root:[+]Hit rate:0.10366482573162934   Remaining scan times:866960
+
+INFO:root:Epoch: 141
+INFO:root:[+]Hit rate:0.10350668423083055   Remaining scan times:810835
+
+INFO:root:Epoch: 142
+INFO:root:[+]Hit rate:0.10361971912767581   Remaining scan times:751741
+
+INFO:root:Epoch: 143
+INFO:root:[+]Hit rate:0.10388957419804064   Remaining scan times:687901
+
+INFO:root:Epoch: 144
+INFO:root:[+]Hit rate:0.10411029812922218   Remaining scan times:622724
+
+INFO:root:Epoch: 145
+INFO:root:[+]Hit rate:0.10428685707510486   Remaining scan times:570691
+
+INFO:root:Epoch: 146
+INFO:root:[+]Hit rate:0.10451190597223986   Remaining scan times:508335
+
+INFO:root:Epoch: 147
+INFO:root:[+]Hit rate:0.10473988201961255   Remaining scan times:453159
+
+INFO:root:Epoch: 148
+INFO:root:[+]Hit rate:0.10497377104794055   Remaining scan times:390390
+
+INFO:root:Epoch: 149
+INFO:root:[+]Hit rate:0.1052512922647202   Remaining scan times:321449
+
+INFO:root:Epoch: 150
+INFO:root:[+]Hit rate:0.10557638464434876   Remaining scan times:250547
+
+INFO:root:Epoch: 151
+INFO:root:[+]Hit rate:0.1058340052778185   Remaining scan times:177760
+
+INFO:root:Epoch: 152
+INFO:root:[+]Hit rate:0.10605587228476084   Remaining scan times:103358
+
+INFO:root:Epoch: 153
+INFO:root:[+]Hit rate:0.10625892203018264   Remaining scan times:30296
+
+INFO:root:Epoch: 0
+INFO:root:Epoch: 0
+INFO:root:[+]Hit rate:0.3176256372906045   Remaining scan times:9903890
+
+INFO:root:Epoch: 1
+INFO:root:[+]Hit rate:0.36718492473354575   Remaining scan times:9817980
+
+INFO:root:Epoch: 2
+INFO:root:[+]Hit rate:0.40637982885843615   Remaining scan times:9741968
+
+INFO:root:Epoch: 3
+INFO:root:[+]Hit rate:0.42721160661955365   Remaining scan times:9674117
+
+INFO:root:Epoch: 4
+INFO:root:[+]Hit rate:0.42643972598209673   Remaining scan times:9606887
+
+INFO:root:Epoch: 5
+INFO:root:[+]Hit rate:0.41485895838470416   Remaining scan times:9541731
+
+INFO:root:Epoch: 6
+INFO:root:[+]Hit rate:0.40361451539236237   Remaining scan times:9476721
+
+INFO:root:Epoch: 7
+INFO:root:[+]Hit rate:0.38702894492382295   Remaining scan times:9403626
+
+INFO:root:Epoch: 8
+INFO:root:[+]Hit rate:0.37420831766384316   Remaining scan times:9329908
+
+INFO:root:Epoch: 9
+INFO:root:[+]Hit rate:0.36735052526940937   Remaining scan times:9254573
+
+INFO:root:Epoch: 10
+INFO:root:[+]Hit rate:0.3694198379858966   Remaining scan times:9176368
+
+INFO:root:Epoch: 11
+INFO:root:[+]Hit rate:0.378369602307125   Remaining scan times:9091510
+
+INFO:root:Epoch: 12
+INFO:root:[+]Hit rate:0.3852492660636505   Remaining scan times:9008429
+
+INFO:root:Epoch: 13
+INFO:root:[+]Hit rate:0.3901949565290202   Remaining scan times:8925145
+
+INFO:root:Epoch: 14
+INFO:root:[+]Hit rate:0.3929805755920892   Remaining scan times:8876774
+
+INFO:root:Epoch: 15
+INFO:root:[+]Hit rate:0.39526313634921556   Remaining scan times:8827452
+
+INFO:root:Epoch: 16
+INFO:root:[+]Hit rate:0.3969708851672095   Remaining scan times:8778389
+
+INFO:root:Epoch: 17
+INFO:root:[+]Hit rate:0.39586830192767564   Remaining scan times:8726238
+
+INFO:root:Epoch: 18
+INFO:root:[+]Hit rate:0.39414036707433225   Remaining scan times:8630904
+
+INFO:root:Epoch: 19
+INFO:root:[+]Hit rate:0.39334768864250697   Remaining scan times:8581245
+
+INFO:root:Epoch: 20
+INFO:root:[+]Hit rate:0.3925700035275867   Remaining scan times:8531574
+
+INFO:root:Epoch: 21
+INFO:root:[+]Hit rate:0.39208626933347035   Remaining scan times:8481778
+
+INFO:root:Epoch: 22
+INFO:root:[+]Hit rate:0.3915890067480273   Remaining scan times:8431838
+
+INFO:root:Epoch: 23
+INFO:root:[+]Hit rate:0.39103128539464976   Remaining scan times:8381641
+
+INFO:root:Epoch: 24
+INFO:root:[+]Hit rate:0.3907561060138555   Remaining scan times:8332218
+
+INFO:root:Epoch: 25
+INFO:root:[+]Hit rate:0.39063617202147355   Remaining scan times:8282540
+
+INFO:root:Epoch: 26
+INFO:root:[+]Hit rate:0.3907063342141932   Remaining scan times:8232409
+
+INFO:root:Epoch: 27
+INFO:root:[+]Hit rate:0.3910113669868903   Remaining scan times:8182104
+
+INFO:root:Epoch: 28
+INFO:root:[+]Hit rate:0.39114063483499684   Remaining scan times:8131672
+
+INFO:root:Epoch: 29
+INFO:root:[+]Hit rate:0.390589836485669   Remaining scan times:8080841
+
+INFO:root:Epoch: 30
+INFO:root:[+]Hit rate:0.390854704324264   Remaining scan times:8029260
+
+INFO:root:Epoch: 31
+INFO:root:[+]Hit rate:0.3920680068540164   Remaining scan times:7974910
+
+INFO:root:Epoch: 32
+INFO:root:[+]Hit rate:0.394544813276812   Remaining scan times:7918898
+
+INFO:root:Epoch: 33
+INFO:root:[+]Hit rate:0.39689896780128364   Remaining scan times:7858455
+
+INFO:root:Epoch: 34
+INFO:root:[+]Hit rate:0.399759348723934   Remaining scan times:7786008
+
+INFO:root:Epoch: 35
+INFO:root:[+]Hit rate:0.4022151393376458   Remaining scan times:7714365
+
+INFO:root:Epoch: 36
+INFO:root:[+]Hit rate:0.40471059472403553   Remaining scan times:7642251
+
+INFO:root:Epoch: 37
+INFO:root:[+]Hit rate:0.4070300921000263   Remaining scan times:7570359
+
+INFO:root:Epoch: 38
+INFO:root:[+]Hit rate:0.4090942718811947   Remaining scan times:7499371
+
+INFO:root:Epoch: 39
+INFO:root:[+]Hit rate:0.4110746858875646   Remaining scan times:7429742
+
+INFO:root:Epoch: 40
+INFO:root:[+]Hit rate:0.41248067288319257   Remaining scan times:7362514
+
+INFO:root:Epoch: 41
+INFO:root:[+]Hit rate:0.4133920210543625   Remaining scan times:7312101
+
+INFO:root:Epoch: 42
+INFO:root:[+]Hit rate:0.41320067015820017   Remaining scan times:7262139
+
+INFO:root:Epoch: 43
+INFO:root:[+]Hit rate:0.4127060085914179   Remaining scan times:7222810
+
+INFO:root:Epoch: 44
+INFO:root:[+]Hit rate:0.4123762070845581   Remaining scan times:7195619
+
+INFO:root:Epoch: 45
+INFO:root:[+]Hit rate:0.41203632282737124   Remaining scan times:7167291
+
+INFO:root:Epoch: 46
+INFO:root:[+]Hit rate:0.4118114459525802   Remaining scan times:7138115
+
+INFO:root:Epoch: 47
+INFO:root:[+]Hit rate:0.4116962675503137   Remaining scan times:7107744
+
+INFO:root:Epoch: 48
+INFO:root:[+]Hit rate:0.41152825649630254   Remaining scan times:7076106
+
+INFO:root:Epoch: 49
+INFO:root:[+]Hit rate:0.41143469034708735   Remaining scan times:7041494
+
+INFO:root:Epoch: 50
+INFO:root:[+]Hit rate:0.41149016104659414   Remaining scan times:7005525
+
+INFO:root:Epoch: 51
+INFO:root:[+]Hit rate:0.41164192362002083   Remaining scan times:6962581
+
+INFO:root:Epoch: 52
+INFO:root:[+]Hit rate:0.4119521563386039   Remaining scan times:6917460
+
+INFO:root:Epoch: 53
+INFO:root:[+]Hit rate:0.4122087159852562   Remaining scan times:6862684
+
+INFO:root:Epoch: 54
+INFO:root:[+]Hit rate:0.412484322183863   Remaining scan times:6809983
+
+INFO:root:Epoch: 55
+INFO:root:[+]Hit rate:0.4127342875846732   Remaining scan times:6769195
+
+INFO:root:Epoch: 56
+INFO:root:[+]Hit rate:0.4128098047253336   Remaining scan times:6738389
+
+INFO:root:Epoch: 57
+INFO:root:[+]Hit rate:0.41244625491878384   Remaining scan times:6708536
+
+INFO:root:Epoch: 58
+INFO:root:[+]Hit rate:0.4122099307646342   Remaining scan times:6689842
+
+INFO:root:Epoch: 59
+INFO:root:[+]Hit rate:0.4118634031090352   Remaining scan times:6674917
+
+INFO:root:Epoch: 60
+INFO:root:[+]Hit rate:0.4116773564777621   Remaining scan times:6659124
+
+INFO:root:Epoch: 61
+INFO:root:[+]Hit rate:0.41140318387364544   Remaining scan times:6641324
+
+INFO:root:Epoch: 62
+INFO:root:[+]Hit rate:0.41137381201551304   Remaining scan times:6621168
+
+INFO:root:Epoch: 63
+INFO:root:[+]Hit rate:0.41138056301765236   Remaining scan times:6597620
+
+INFO:root:Epoch: 64
+INFO:root:[+]Hit rate:0.4117432320450849   Remaining scan times:6570382
+
+INFO:root:Epoch: 65
+INFO:root:[+]Hit rate:0.412062259959269   Remaining scan times:6541212
+
+INFO:root:Epoch: 66
+INFO:root:[+]Hit rate:0.4124839988925559   Remaining scan times:6507273
+
+INFO:root:Epoch: 67
+INFO:root:[+]Hit rate:0.4125689758623807   Remaining scan times:6471773
+
+INFO:root:Epoch: 68
+INFO:root:[+]Hit rate:0.41244278824315034   Remaining scan times:6431459
+
+INFO:root:Epoch: 69
+INFO:root:[+]Hit rate:0.4124566487692784   Remaining scan times:6393701
+
+INFO:root:Epoch: 70
+INFO:root:[+]Hit rate:0.41248770624810893   Remaining scan times:6357906
+
+INFO:root:Epoch: 71
+INFO:root:[+]Hit rate:0.4125002414944301   Remaining scan times:6324967
+
+INFO:root:Epoch: 72
+INFO:root:[+]Hit rate:0.41245482205471073   Remaining scan times:6291332
+
+INFO:root:Epoch: 73
+INFO:root:[+]Hit rate:0.4122503644751957   Remaining scan times:6248030
+
+INFO:root:Epoch: 74
+INFO:root:[+]Hit rate:0.4106183267045298   Remaining scan times:6193129
+
+INFO:root:Epoch: 75
+INFO:root:[+]Hit rate:0.4088706199893465   Remaining scan times:6136482
+
+INFO:root:Epoch: 76
+INFO:root:[+]Hit rate:0.40710784326223737   Remaining scan times:6077882
+
+INFO:root:Epoch: 77
+INFO:root:[+]Hit rate:0.4052944741682518   Remaining scan times:6018717
+
+INFO:root:Epoch: 78
+INFO:root:[+]Hit rate:0.40365641675317543   Remaining scan times:5960909
+
+INFO:root:Epoch: 79
+INFO:root:[+]Hit rate:0.40194671773569046   Remaining scan times:5902539
+
+INFO:root:Epoch: 80
+INFO:root:[+]Hit rate:0.40026191001389655   Remaining scan times:5842847
+
+INFO:root:Epoch: 81
+INFO:root:[+]Hit rate:0.3985957338298869   Remaining scan times:5784275
+
+INFO:root:Epoch: 82
+INFO:root:[+]Hit rate:0.3972077421460567   Remaining scan times:5735136
+
+INFO:root:Epoch: 83
+INFO:root:[+]Hit rate:0.3957638576770779   Remaining scan times:5685839
+
+INFO:root:Epoch: 84
+INFO:root:[+]Hit rate:0.3942357145441464   Remaining scan times:5633006
+
+INFO:root:Epoch: 85
+INFO:root:[+]Hit rate:0.39269952044693396   Remaining scan times:5582345
+
+INFO:root:Epoch: 86
+INFO:root:[+]Hit rate:0.3910852074850908   Remaining scan times:5530956
+
+INFO:root:Epoch: 87
+INFO:root:[+]Hit rate:0.38965532116819807   Remaining scan times:5479705
+
+INFO:root:Epoch: 88
+INFO:root:[+]Hit rate:0.3885928870326799   Remaining scan times:5434901
+
+INFO:root:Epoch: 89
+INFO:root:[+]Hit rate:0.38745135638147876   Remaining scan times:5389940
+
+INFO:root:Epoch: 90
+INFO:root:[+]Hit rate:0.38641112639278125   Remaining scan times:5345913
+
+INFO:root:Epoch: 91
+INFO:root:[+]Hit rate:0.38531496652177494   Remaining scan times:5302469
+
+INFO:root:Epoch: 92
+INFO:root:[+]Hit rate:0.38434345234993567   Remaining scan times:5259849
+
+INFO:root:Epoch: 93
+INFO:root:[+]Hit rate:0.3830688707031619   Remaining scan times:5218228
+
+INFO:root:Epoch: 94
+INFO:root:[+]Hit rate:0.3818374140559375   Remaining scan times:5178550
+
+INFO:root:Epoch: 95
+INFO:root:[+]Hit rate:0.3806422762588021   Remaining scan times:5140658
+
+INFO:root:Epoch: 96
+INFO:root:[+]Hit rate:0.3794077102636733   Remaining scan times:5103410
+
+INFO:root:Epoch: 97
+INFO:root:[+]Hit rate:0.37818270982489344   Remaining scan times:5065290
+
+INFO:root:Epoch: 98
+INFO:root:[+]Hit rate:0.3769183407471038   Remaining scan times:5026822
+
+INFO:root:Epoch: 99
+INFO:root:[+]Hit rate:0.37567436484861566   Remaining scan times:4987691
+
+INFO:root:Epoch: 100
+INFO:root:[+]Hit rate:0.3756203510374202   Remaining scan times:4976433
+
+INFO:root:Epoch: 101
+INFO:root:[+]Hit rate:0.3755095829406333   Remaining scan times:4966472
+
+INFO:root:Epoch: 102
+INFO:root:[+]Hit rate:0.3754028621100479   Remaining scan times:4955470
+
+INFO:root:Epoch: 103
+INFO:root:[+]Hit rate:0.3748294987926164   Remaining scan times:4936986
+
+INFO:root:Epoch: 104
+INFO:root:[+]Hit rate:0.3740169853601473   Remaining scan times:4915386
+
+INFO:root:Epoch: 105
+INFO:root:[+]Hit rate:0.37295819911782696   Remaining scan times:4889438
+
+INFO:root:Epoch: 106
+INFO:root:[+]Hit rate:0.3718249787602195   Remaining scan times:4861058
+
+INFO:root:Epoch: 107
+INFO:root:[+]Hit rate:0.37064348740040504   Remaining scan times:4831818
+
+INFO:root:Epoch: 108
+INFO:root:[+]Hit rate:0.3695996595450609   Remaining scan times:4802249
+
+INFO:root:Epoch: 109
+INFO:root:[+]Hit rate:0.36861010694576246   Remaining scan times:4774267
+
+INFO:root:Epoch: 110
+INFO:root:[+]Hit rate:0.3675709914792154   Remaining scan times:4742855
+
+INFO:root:Epoch: 111
+INFO:root:[+]Hit rate:0.3666637594851527   Remaining scan times:4714239
+
+INFO:root:Epoch: 112
+INFO:root:[+]Hit rate:0.36518775431663625   Remaining scan times:4673225
+
+INFO:root:Epoch: 113
+INFO:root:[+]Hit rate:0.36351852859471584   Remaining scan times:4633484
+
+INFO:root:Epoch: 114
+INFO:root:[+]Hit rate:0.3618974557292973   Remaining scan times:4598177
+
+INFO:root:Epoch: 115
+INFO:root:[+]Hit rate:0.36030046446249564   Remaining scan times:4561886
+
+INFO:root:Epoch: 116
+INFO:root:[+]Hit rate:0.3587009865922304   Remaining scan times:4524891
+
+INFO:root:Epoch: 117
+INFO:root:[+]Hit rate:0.35718572347061545   Remaining scan times:4487848
+
+INFO:root:Epoch: 118
+INFO:root:[+]Hit rate:0.35568390578983106   Remaining scan times:4449389
+
+INFO:root:Epoch: 119
+INFO:root:[+]Hit rate:0.35407895997928657   Remaining scan times:4407496
+
+INFO:root:Epoch: 120
+INFO:root:[+]Hit rate:0.3524328569942975   Remaining scan times:4364938
+
+INFO:root:Epoch: 121
+INFO:root:[+]Hit rate:0.35081858768285185   Remaining scan times:4322111
+
+INFO:root:Epoch: 122
+INFO:root:[+]Hit rate:0.3490466763353948   Remaining scan times:4276393
+
+INFO:root:Epoch: 123
+INFO:root:[+]Hit rate:0.3473630140667218   Remaining scan times:4231634
+
+INFO:root:Epoch: 124
+INFO:root:[+]Hit rate:0.34570068389023767   Remaining scan times:4186494
+
+INFO:root:Epoch: 125
+INFO:root:[+]Hit rate:0.34401822713496616   Remaining scan times:4141043
+
+INFO:root:Epoch: 126
+INFO:root:[+]Hit rate:0.3423260481017701   Remaining scan times:4096184
+
+INFO:root:Epoch: 127
+INFO:root:[+]Hit rate:0.34067343585677184   Remaining scan times:4047540
+
+INFO:root:Epoch: 128
+INFO:root:[+]Hit rate:0.3391118040513675   Remaining scan times:3999162
+
+INFO:root:Epoch: 129
+INFO:root:[+]Hit rate:0.3371062152348323   Remaining scan times:3952280
+
+INFO:root:Epoch: 130
+INFO:root:[+]Hit rate:0.33460905279673053   Remaining scan times:3896516
+
+INFO:root:Epoch: 131
+INFO:root:[+]Hit rate:0.3323315532455108   Remaining scan times:3845622
+
+INFO:root:Epoch: 132
+INFO:root:[+]Hit rate:0.33023847539764434   Remaining scan times:3795838
+
+INFO:root:Epoch: 133
+INFO:root:[+]Hit rate:0.32815578803460776   Remaining scan times:3744526
+
+INFO:root:Epoch: 134
+INFO:root:[+]Hit rate:0.3260872908232948   Remaining scan times:3692235
+
+INFO:root:Epoch: 135
+INFO:root:[+]Hit rate:0.3243133461399962   Remaining scan times:3643413
+
+INFO:root:Epoch: 136
+INFO:root:[+]Hit rate:0.3224702285963729   Remaining scan times:3592593
+
+INFO:root:Epoch: 137
+INFO:root:[+]Hit rate:0.3206319187348988   Remaining scan times:3542714
+
+INFO:root:Epoch: 138
+INFO:root:[+]Hit rate:0.3187313104276331   Remaining scan times:3490354
+
+INFO:root:Epoch: 139
+INFO:root:[+]Hit rate:0.3167446817100491   Remaining scan times:3436095
+
+INFO:root:Epoch: 140
+INFO:root:[+]Hit rate:0.3146811675400413   Remaining scan times:3379893
+
+INFO:root:Epoch: 141
+INFO:root:[+]Hit rate:0.31261571476293154   Remaining scan times:3321401
+
+INFO:root:Epoch: 142
+INFO:root:[+]Hit rate:0.3104061777051948   Remaining scan times:3261964
+
+INFO:root:Epoch: 143
+INFO:root:[+]Hit rate:0.3083251860149047   Remaining scan times:3204308
+
+INFO:root:Epoch: 144
+INFO:root:[+]Hit rate:0.30625540717791605   Remaining scan times:3146841
+
+INFO:root:Epoch: 145
+INFO:root:[+]Hit rate:0.304173068050441   Remaining scan times:3088083
+
+INFO:root:Epoch: 146
+INFO:root:[+]Hit rate:0.30214387334811305   Remaining scan times:3030092
+
+INFO:root:Epoch: 147
+INFO:root:[+]Hit rate:0.29991248524005854   Remaining scan times:2965758
+
+INFO:root:Epoch: 148
+INFO:root:[+]Hit rate:0.29779189199243783   Remaining scan times:2903608
+
+INFO:root:Epoch: 149
+INFO:root:[+]Hit rate:0.2957384799321405   Remaining scan times:2842859
+
+INFO:root:Epoch: 150
+INFO:root:[+]Hit rate:0.29419257958770306   Remaining scan times:2795872
+
+INFO:root:Epoch: 151
+INFO:root:[+]Hit rate:0.29258720854083814   Remaining scan times:2746754
+
+INFO:root:Epoch: 152
+INFO:root:[+]Hit rate:0.2911088788179953   Remaining scan times:2701078
+
+INFO:root:Epoch: 153
+INFO:root:[+]Hit rate:0.28959862695152067   Remaining scan times:2652845
+
+INFO:root:Epoch: 154
+INFO:root:[+]Hit rate:0.288166471775963   Remaining scan times:2605257
+
+INFO:root:Epoch: 155
+INFO:root:[+]Hit rate:0.2866476481777425   Remaining scan times:2554263
+
+INFO:root:Epoch: 156
+INFO:root:[+]Hit rate:0.28524736316559957   Remaining scan times:2505028
+
+INFO:root:Epoch: 157
+INFO:root:[+]Hit rate:0.2839290802041833   Remaining scan times:2460892
+
+INFO:root:Epoch: 158
+INFO:root:[+]Hit rate:0.28264893126075   Remaining scan times:2418029
+
+INFO:root:Epoch: 159
+INFO:root:[+]Hit rate:0.28150631240012014   Remaining scan times:2372711
+
+INFO:root:Epoch: 160
+INFO:root:[+]Hit rate:0.2803565096674591   Remaining scan times:2326267
+
+INFO:root:Epoch: 161
+INFO:root:[+]Hit rate:0.2791943089356139   Remaining scan times:2278281
+
+INFO:root:Epoch: 162
+INFO:root:[+]Hit rate:0.27801989595466764   Remaining scan times:2228772
+
+INFO:root:Epoch: 163
+INFO:root:[+]Hit rate:0.27688742877108474   Remaining scan times:2180844
+
+INFO:root:Epoch: 164
+INFO:root:[+]Hit rate:0.2757262492371425   Remaining scan times:2131558
+
+INFO:root:Epoch: 165
+INFO:root:[+]Hit rate:0.2746555287611721   Remaining scan times:2085406
+
+INFO:root:Epoch: 166
+INFO:root:[+]Hit rate:0.27363713769547604   Remaining scan times:2040777
+
+INFO:root:Epoch: 167
+INFO:root:[+]Hit rate:0.2725711812151381   Remaining scan times:1993042
+
+INFO:root:Epoch: 168
+INFO:root:[+]Hit rate:0.2714972096248392   Remaining scan times:1944094
+
+INFO:root:Epoch: 169
+INFO:root:[+]Hit rate:0.27046086922009116   Remaining scan times:1887026
+
+INFO:root:Epoch: 170
+INFO:root:[+]Hit rate:0.2694208532963818   Remaining scan times:1830740
+
+INFO:root:Epoch: 171
+INFO:root:[+]Hit rate:0.2683575341708045   Remaining scan times:1774045
+
+INFO:root:Epoch: 172
+INFO:root:[+]Hit rate:0.2672962752986083   Remaining scan times:1718665
+
+INFO:root:Epoch: 173
+INFO:root:[+]Hit rate:0.26628922549080314   Remaining scan times:1666516
+
+INFO:root:Epoch: 174
+INFO:root:[+]Hit rate:0.2653199677250258   Remaining scan times:1615795
+
+INFO:root:Epoch: 175
+INFO:root:[+]Hit rate:0.2642230509459674   Remaining scan times:1562394
+
+INFO:root:Epoch: 176
+INFO:root:[+]Hit rate:0.26313402686989906   Remaining scan times:1510277
+
+INFO:root:Epoch: 177
+INFO:root:[+]Hit rate:0.26211532209938176   Remaining scan times:1460648
+
+INFO:root:Epoch: 178
+INFO:root:[+]Hit rate:0.2611015094776757   Remaining scan times:1410605
+
+INFO:root:Epoch: 179
+INFO:root:[+]Hit rate:0.2601605635065108   Remaining scan times:1363791
+
+INFO:root:Epoch: 180
+INFO:root:[+]Hit rate:0.25903731927433465   Remaining scan times:1312800
+
+INFO:root:Epoch: 181
+INFO:root:[+]Hit rate:0.25798144955913455   Remaining scan times:1264682
+
+INFO:root:Epoch: 182
+INFO:root:[+]Hit rate:0.2570344715416041   Remaining scan times:1220236
+
+INFO:root:Epoch: 183
+INFO:root:[+]Hit rate:0.256145137435446   Remaining scan times:1178513
+
+INFO:root:Epoch: 184
+INFO:root:[+]Hit rate:0.25528895214217273   Remaining scan times:1138273
+
+INFO:root:Epoch: 185
+INFO:root:[+]Hit rate:0.25442182387920814   Remaining scan times:1097678
+
+INFO:root:Epoch: 186
+INFO:root:[+]Hit rate:0.2535335850045602   Remaining scan times:1056321
+
+INFO:root:Epoch: 187
+INFO:root:[+]Hit rate:0.2526600658655415   Remaining scan times:1015636
+
+INFO:root:Epoch: 188
+INFO:root:[+]Hit rate:0.251723576479345   Remaining scan times:971680
+
+INFO:root:Epoch: 189
+INFO:root:[+]Hit rate:0.25083126190755195   Remaining scan times:928551
+
+INFO:root:Epoch: 190
+INFO:root:[+]Hit rate:0.2499569106960324   Remaining scan times:885209
+
+INFO:root:Epoch: 191
+INFO:root:[+]Hit rate:0.2491558529784006   Remaining scan times:844012
+
+INFO:root:Epoch: 192
+INFO:root:[+]Hit rate:0.24836167052146363   Remaining scan times:802369
+
+INFO:root:Epoch: 193
+INFO:root:[+]Hit rate:0.24759372294372295   Remaining scan times:760000
+
+INFO:root:Epoch: 194
+INFO:root:[+]Hit rate:0.24678205496757524   Remaining scan times:715581
+
+INFO:root:Epoch: 195
+INFO:root:[+]Hit rate:0.24597435104051193   Remaining scan times:669641
+
+INFO:root:Epoch: 196
+INFO:root:[+]Hit rate:0.24503318669786467   Remaining scan times:617777
+
+INFO:root:Epoch: 197
+INFO:root:[+]Hit rate:0.24417201146986267   Remaining scan times:567629
+
+INFO:root:Epoch: 198
+INFO:root:[+]Hit rate:0.24339299282807358   Remaining scan times:521654
+
+INFO:root:Epoch: 199
+INFO:root:[+]Hit rate:0.242696101702748   Remaining scan times:478920
+
+INFO:root:Epoch: 200
+INFO:root:[+]Hit rate:0.24202429698490002   Remaining scan times:437332
+
+INFO:root:Epoch: 201
+INFO:root:[+]Hit rate:0.24143269810803258   Remaining scan times:400099
+
+INFO:root:Epoch: 202
+INFO:root:[+]Hit rate:0.24086314265386044   Remaining scan times:363864
+
+INFO:root:Epoch: 203
+INFO:root:[+]Hit rate:0.24029871345621726   Remaining scan times:327185
+
+INFO:root:Epoch: 204
+INFO:root:[+]Hit rate:0.2397256549566699   Remaining scan times:289892
+
+INFO:root:Epoch: 205
+INFO:root:[+]Hit rate:0.23911706626566942   Remaining scan times:249642
+
+INFO:root:Epoch: 206
+INFO:root:[+]Hit rate:0.23850102943082419   Remaining scan times:208667
+
+INFO:root:Epoch: 207
+INFO:root:[+]Hit rate:0.23791953213191022   Remaining scan times:167827
+
+INFO:root:Epoch: 208
+INFO:root:[+]Hit rate:0.23739261248039   Remaining scan times:131302
+
+INFO:root:Epoch: 209
+INFO:root:[+]Hit rate:0.23688575464429415   Remaining scan times:94512
+

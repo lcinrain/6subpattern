@@ -1,0 +1,2 @@
+SRV_IP='localhost' # your server IP
+POST = 51886
