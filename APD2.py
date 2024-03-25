@@ -80,7 +80,7 @@ if __name__ == '__main__':
         fw_target.writelines([x+'\n' for x in generated_subprefix_addr])
         #response_addrs,_ = scan(generated_subprefix_addr,redis_connection)
         write_list2file(generated_subprefix_addr,'./tmp.txt')
-        cmd = f"sudo zmap --ipv6-source-ip=240d:c000:2023:ba01:0:9af8:f599:93f2 --ipv6-target-file=tmp.txt -M icmp6_echoscan -B 10M -q -o out.txt"
+        cmd = f"sudo zmap --ipv6-source-ip=your IPv6 addr --ipv6-target-file=tmp.txt -M icmp6_echoscan -B 10M -q -o out.txt"
 
         subprocess.call(cmd,shell=True,stdout=subprocess.PIPE) 
         response_addrs = read_big_file('./out.txt')
