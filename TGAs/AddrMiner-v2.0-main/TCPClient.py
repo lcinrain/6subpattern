@@ -72,7 +72,7 @@ def read_big_file(file_name:str,read_zise=10**9,remove_duplicates=False,throw_ex
     return contents
 
 if __name__ == '__main__':
-    srvIP,post='64.176.51.8',51886
+    srvIP,post='your addr',51886
     clientSocket = GetTCPConnection(srvIP,post)
     ipv6s = read_big_file('../hitlist_downsampling.compressed.10000.txt')
     clientSocket = Sendata(clientSocket=clientSocket,data_list=ipv6s)

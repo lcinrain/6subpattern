@@ -21,7 +21,7 @@ def scan(scan_targets,redis_connection=None):
     if unprobed_addrs:
         while True:
             print(get_currentime(),'connect VPS')
-            clientSocket = GetTCPConnection("150.109.71.40",51886)
+            clientSocket = GetTCPConnection("your addr",51886)
             # send unprobed data
             print(get_currentime(),'connected. sending data')
             clientSocket = Sendata(clientSocket,unprobed_addrs)

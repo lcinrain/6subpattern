@@ -335,7 +335,7 @@ def Start(r,clientSocket):
 
 
 if __name__ == '__main__':
-    #srvIP,post = "150.109.71.40",51886
+    #srvIP,post = "your address",51886
     r = redis.Redis(host='localhost', port=6379, decode_responses=True,db=1)
     #clientSocket = GetTCPConnection(srvIP,post)
     clientSocket = None
