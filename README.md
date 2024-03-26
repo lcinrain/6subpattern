@@ -36,6 +36,7 @@ GitHub restricts the size of uploaded data. We only share code here, and once th
                 from myscan2 import scan
                 import redis
                 import requests
+                from cfg import URLs
                 r = redis.Redis(host='localhost', port=6379, decode_responses=True,db=1)
                 sessions = []
                 for _ in URLs:
