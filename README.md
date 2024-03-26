@@ -18,7 +18,31 @@ GitHub restricts the size of uploaded data. We only share code here, and once th
                 responsive_addr,unresponsive_addr = scan(your_target_list:Iterable,r)
             ```
 
-    - myscan2.py: surport distributed scanning.    
+        - myscan2.py: surport distributed scanning.    
+            ```
+                step 1:
+
+                run HTTPServer.py in your server: python HTTPServer.py
+                change zmap command in HTTPServer.py
+                
+                step 2:
+
+                add your server IP in cfg.py
+                
+                step 3:
+
+                in your code:
+
+                from myscan2 import scan
+                import redis
+                import requests
+                r = redis.Redis(host='localhost', port=6379, decode_responses=True,db=1)
+                sessions = []
+                for _ in URLs:
+                    session = requests.Session()
+                    sessions.append(session)
+                responsive_addrs, unresp_addrs = scan(targets_you_wantto_scan,r,sessions,URLs)
+            ```
     - 6Graph: we add target generation step
     - 6Forest: we add the target generation step as 6Graph after costing<=three free dimension patterns.
     - 6Tree, AddrMiner, DET: integrated scanning framework.
