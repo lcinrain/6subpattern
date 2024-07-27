@@ -1,4 +1,4 @@
-GitHub restricts the size of uploaded data. We only share code here, and once the data upload is complete, we will publicly release the link. You can contact us for these data right now. email: lcinrain@sina.com
+
 
 - Dependencies:
     - redis
