@@ -1,21 +1,9 @@
 from pattern import get_pattern_simple
 import queue
 import time
-from myio import read_exploded_hitlist
 from collections import Counter,defaultdict
 
 from mytime import get_time_now
-# a = ['2a0107c8aacb0258505400fffec5f4af','2a0107c8aacb02710000000000000001','2a0107c8aacb027e10de51e8eb667583','2a0107c8aacb027f0000000000000001','2a0107c8aacb02b20000000000000001','2a0107c8aacb02ba505400fffee8eb27','2a0107c8aacb02c4505400fffe8312eb']
-
-'''
-space partition done, th= 16 seed num 6897870 time cost 668.2269792556763
-output seed regions done, regions/pattern num 1281685 time cost:  84.85844254493713
-
-leftmost
-space partition done, th= 16 seed num 6897870 time cost
-157.41901540756226
-'''
-
 
 
 def get_free_dimension(hitlist_exploded:list,return_mode:str):
@@ -147,57 +135,10 @@ Parameters:
             for new_node in new_nodes:
                 q.put(new_node)
 
-    print(func.__name__,'space partition done, th=',th,'seed num',len(exploded_hitlist),'time cost',time.time()-s)
-    print('*'*10)
+    #print(func.__name__,'space partition done, th=',th,'seed num',len(exploded_hitlist),'time cost',time.time()-s)
+    #print('*'*10)
     return seed_regions
 
-def space_partition_record(exploded_hitlist:list,th=16,func=mvc):
-    '''
-    用于记录划分过程中的种子区域，画图用
-Parameters:
-    - exploded_hitlist: list of exploded ipv6 hex str without ':'. e.g. 20010db8000000000000000000000000. its compressed format is 2001:db8::
-    '''
-    fw = open('./evaluation/figure/space_partition_result600.txt','w')
-    round_count = 0
-    seed_region_count = 0
-    s = time.time()
-    seed_regions = []
-    q = queue.Queue()
-    q.put(exploded_hitlist)
-    while not q.empty():
-        node = q.get()
-        if len(node) <= th:
-            seed_regions.append(node)
-        else:
-            new_region,split_indicator,freed_variables_dict = func(node)
-            new_nodes = new_region.values()
-            fw.write('round '+str(round_count)+' ******\n')
-            round_count+=1
-            fw.write('splitting dimension: '+str(split_indicator)+'\nfreed and vc:\n')
-            fw.write('\t'.join([str(x) for x in freed_variables_dict.keys()])+'\n')
-            fw.write('\t'.join([str(len(x)) for x in freed_variables_dict.values()])+'\n')
-            
-            
-            #new_nodes = func(node).values()
-            for new_node in new_nodes:
-                new_node = sorted(new_node)
-                seed_num = len(new_node)
-                pattern = get_pattern_simple(new_node) if len(new_node) > 1 else 'single'
-                label = '+++++leaf node+++++' if len(new_node)<16 else  '----seed region----'
-                    
-                fw.write(label+pattern+' No. '+str(seed_region_count)+' seed num: '+str(seed_num)+'\n')
-                seed_region_count+=1
-                fw.write(new_node[0]+'\n')
-                if seed_num>1:
-                    fw.write('...\n')
-                    fw.write(new_node[-1]+'\nall nodes:\n')
-                    fw.write('\t'.join(new_node)+'\n')
-                q.put(new_node)
-            fw.write('\n\n')
-    print(func.__name__,'space partition done, th=',th,'seed num',len(exploded_hitlist),'time cost',time.time()-s)
-    print('*'*10)
-    fw.close()
-    return seed_regions
 
 def output_seed_regions(seed_regions:list,output_filename:str,output_human_readable=True,return_density_list=False,sorted_list=True):
     """
@@ -248,22 +189,3 @@ Parameters:
     #print(output_filename,'output seed regions done, regions/pattern num',len(seed_regions),'single number',single_count,'time cost: ',time.time()-s)
     #print('#'*10)
 
-def process(hitlist,out_filename,function,th):
-    seeds_regions = space_partition(hitlist,th=th,func=function)
-    output_seed_regions(seed_regions=seeds_regions,output_filename=out_filename)
-
-if __name__ == '__main__':
-    # a = ['2a0107c8aacb0258505400fffec5f4af','2a0107c8aacb02710000000000000001','2a0107c8aacb027e10de51e8eb667583','2a0107c8aacb027f0000000000000001','2a0107c8aacb02b20000000000000001','2a0107c8aacb02ba505400fffee8eb27','2a0107c8aacb02c4505400fffe8312eb']
-    # space_partition_min_freed(a)
-    # space_partition(a)
-    file_mvc = './comparison.space_partition/downsampling10k.mvc.th16.txt'
-    file_leftmost = './comparison.space_partition/downsampling10k.leftmost.th16.txt'
-    file_maxcovering = './comparison.space_partition/downsampling10k.maxcovering.th16.txt'
-    h = read_exploded_hitlist('./hitlist/hitlist_downsampling.exploded.10000.txt')
-    space_partition(h,func=mvc)
-    #multiprocessing.Process(target=process,args=(h,file_mvc,mvc,16)).start()
-    #multiprocessing.Process(target=process,args=(h,file_leftmost,leftmost,16)).start()
-    #multiprocessing.Process(target=process,args=(h,file_maxcovering,max_covering,16)).start()
-    # h = np.load("./algorithms/6Graph-main/seeds.npy")
-    # seeds_regions = space_partition(h,th=16)
-    # output_seed_regions(seed_regions=seeds_regions,output_filename=file_name)
